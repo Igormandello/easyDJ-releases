@@ -140,7 +140,7 @@ easyDJ checks for new versions on its own. When one is ready, a "New version ava
 - **A SoundCloud song came as MP3, not WAV:** the artist only allows the original to logged-in users (sign in to SoundCloud in Chrome) or doesn't allow downloads at all.
 - **A song is missing after a download:** see **Last download** in the ⬇ Download dialog. It may have been skipped as a repeat, longer than the max. length, or older than the date filter.
 - **The Mac won't open the app:** see [Install > Mac](#mac) (Open Anyway).
-- **Something else went wrong:** send the `app.log` file from the folder above to whoever gave you the app.
+- **Something else went wrong:** send the `app.log` file from the folder above to me :)
 
 ---
 
@@ -148,7 +148,7 @@ easyDJ checks for new versions on its own. When one is ready, a "New version ava
 
 [English](#easydj) · **Português**
 
-O easyDJ é um app para DJs que transforma "achei umas faixas na internet" em "já estão no pendrive, organizadas". Ele:
+O easyDJ é um app para DJs que transforma "achei umas músicas na internet" em "já estão no pendrive, organizadas". Ele:
 
 - **baixa** canais inteiros do YouTube, artistas do SoundCloud e links do Spotify (música, álbum, playlist ou artista) em MP3 320 kbps, ou em WAV quando o SoundCloud tem o original sem perda;
 - deixa você **revisar** cada música rapidinho: ouve algumas partes, dá 👍 ou 👎 e marca com as suas etiquetas (subgênero, clima, o que quiser);
@@ -286,4 +286,4 @@ O easyDJ procura versões novas sozinho. Quando uma estiver pronta, aparece o av
 - **Uma música do SoundCloud veio em MP3, não WAV:** o artista só libera o original para quem está logado (entre no SoundCloud pelo Chrome) ou não libera download.
 - **Faltou uma música depois do download:** veja **Último download** na janela ⬇ Baixar. Ela pode ter sido pulada por ser repetida, mais longa que a duração máxima ou mais antiga que a data do filtro.
 - **O Mac não abre o app:** veja [Instalar > Mac](#mac-1) (Abrir Mesmo Assim).
-- **Outro problema:** mande o arquivo `app.log` da pasta acima para quem te passou o app.
+- **Outro problema:** mande o arquivo `app.log` da pasta acima para mim :)
